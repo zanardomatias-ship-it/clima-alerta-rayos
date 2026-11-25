@@ -1,4052 +1,3074 @@
 {
   "fuente": "NOAA GOES-19 GLM",
-  "actualizadoEn": "2026-11-25T09:08:56.189029+00:00",
+  "actualizadoEn": "2026-11-25T10:18:29.610547+00:00",
   "region": "Argentina",
   "tipo": "actividad_electrica_satelital",
-  "cantidad": 674,
+  "cantidad": 511,
   "rayos": [
     {
-      "lat": -21.77411,
-      "lon": -59.21902,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.18242,
+      "lon": -66.73556,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.0865,
-      "lon": -57.16755,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.28527,
+      "lon": -66.42088,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23932,
-      "lon": -66.6095,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.66298,
+      "lon": -59.13079,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.25764,
-      "lon": -57.11206,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.22576,
+      "lon": -58.25603,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.47894,
-      "lon": -66.30361,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.20823,
+      "lon": -58.75683,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.21264,
-      "lon": -66.58055,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.80888,
+      "lon": -59.64596,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.12109,
-      "lon": -60.16708,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.91673,
+      "lon": -54.99617,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.88013,
-      "lon": -58.7566,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.11709,
+      "lon": -66.64433,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.3659,
-      "lon": -66.59743,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.52286,
+      "lon": -59.54575,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.84935,
-      "lon": -59.34353,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.39529,
+      "lon": -66.67828,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.0659,
-      "lon": -58.98636,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.173,
+      "lon": -66.65087,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.16067,
-      "lon": -66.61763,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.54735,
+      "lon": -58.36263,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.11325,
-      "lon": -59.08671,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.16667,
+      "lon": -66.68983,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.07198,
-      "lon": -57.75872,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -22.64109,
+      "lon": -57.79316,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.17568,
-      "lon": -57.13991,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.78912,
+      "lon": -58.94375,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.92015,
-      "lon": -54.87892,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.43517,
+      "lon": -53.35431,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.59122,
-      "lon": -58.66353,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.07382,
+      "lon": -66.69411,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.12743,
-      "lon": -60.02839,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.29706,
+      "lon": -58.18859,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.16042,
-      "lon": -66.72967,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -22.38842,
+      "lon": -57.23439,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.28093,
-      "lon": -57.71945,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.69871,
+      "lon": -56.77263,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.10879,
-      "lon": -58.87543,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -24.27093,
+      "lon": -59.51217,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.79023,
-      "lon": -59.60778,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.79551,
+      "lon": -59.83998,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.11067,
-      "lon": -57.31973,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.28645,
+      "lon": -66.4021,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.67783,
-      "lon": -58.69515,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.17294,
+      "lon": -66.71666,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.26977,
-      "lon": -57.15021,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.24439,
+      "lon": -66.4917,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.47772,
-      "lon": -58.60452,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.42383,
+      "lon": -57.94336,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.92476,
-      "lon": -60.21891,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.32168,
+      "lon": -66.49512,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.59171,
-      "lon": -59.53766,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.55551,
+      "lon": -58.42842,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.81152,
-      "lon": -58.55058,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -22.24677,
+      "lon": -59.19236,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.46412,
-      "lon": -60.52256,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.65884,
+      "lon": -58.97713,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.01012,
-      "lon": -59.18424,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.07823,
+      "lon": -66.67048,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.94159,
-      "lon": -58.36557,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -24.15579,
+      "lon": -59.90915,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.34104,
-      "lon": -58.86237,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.59439,
+      "lon": -58.96996,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.24774,
-      "lon": -66.67908,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.28201,
+      "lon": -58.13216,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.32091,
-      "lon": -66.743,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.2916,
+      "lon": -66.63892,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.2334,
-      "lon": -57.13427,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.99115,
+      "lon": -59.22479,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.19652,
-      "lon": -57.19368,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.70313,
+      "lon": -59.5549,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.64555,
-      "lon": -60.24131,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.21317,
+      "lon": -58.0063,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.93193,
-      "lon": -59.43112,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.20676,
+      "lon": -66.56239,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.14321,
-      "lon": -66.70836,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.93896,
+      "lon": -56.34597,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.02357,
-      "lon": -56.74404,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -24.31344,
+      "lon": -59.65431,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.14393,
-      "lon": -66.66508,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.29659,
+      "lon": -66.39686,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.76327,
-      "lon": -58.80018,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -24.30277,
+      "lon": -59.44568,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.07601,
-      "lon": -58.98911,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.58721,
+      "lon": -53.15238,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.89674,
-      "lon": -59.07777,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.66476,
+      "lon": -59.12772,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.2233,
-      "lon": -66.56679,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.59318,
+      "lon": -58.99316,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.74412,
+      "lat": -33.19637,
+      "lon": -66.71693,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.23982,
+      "lon": -58.19733,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -24.14045,
+      "lon": -59.72055,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.5999,
+      "lon": -58.43581,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.265,
+      "lon": -66.737,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -24.34319,
+      "lon": -59.49469,
+      "horaArchivo": "2026-11-25T10:17:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.74035,
+      "lon": -59.7007,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.08612,
+      "lon": -66.70603,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.99518,
       "lon": -58.1614,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.25495,
-      "lon": -57.38039,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.52881,
+      "lon": -59.05764,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.94676,
-      "lon": -58.41889,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.24394,
+      "lon": -66.56521,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.77621,
-      "lon": -60.1806,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.76847,
+      "lon": -56.77922,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.27857,
-      "lon": -57.11391,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.60959,
+      "lon": -58.98037,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23005,
-      "lon": -66.58569,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.17534,
+      "lon": -58.61397,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.96031,
-      "lon": -59.39759,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.71572,
+      "lon": -58.48568,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.15502,
-      "lon": -57.84399,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.11893,
+      "lon": -66.6888,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.09027,
-      "lon": -59.08768,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.19926,
+      "lon": -66.77836,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.83952,
-      "lon": -59.24498,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.26237,
+      "lon": -66.43838,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.12092,
-      "lon": -59.31547,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.66791,
+      "lon": -59.07383,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.15949,
-      "lon": -66.6018,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -24.25021,
+      "lon": -59.51554,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.10091,
-      "lon": -59.13628,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.53193,
+      "lon": -58.46158,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.54761,
-      "lon": -62.28748,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.25539,
+      "lon": -66.51951,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.0271,
-      "lon": -59.1721,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -24.28498,
+      "lon": -59.57412,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.25689,
-      "lon": -57.16372,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -21.97977,
+      "lon": -59.22882,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.60022,
-      "lon": -57.9301,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.55854,
+      "lon": -58.98819,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.13866,
-      "lon": -59.06189,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.15709,
+      "lon": -57.60022,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.16987,
-      "lon": -57.31706,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.28792,
+      "lon": -66.5277,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.04314,
-      "lon": -58.93534,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.23338,
+      "lon": -58.01004,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.15115,
-      "lon": -66.64105,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -22.52828,
+      "lon": -57.52335,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.14502,
-      "lon": -57.58002,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.31887,
+      "lon": -58.18246,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.01502,
-      "lon": -60.08008,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -33.22535,
+      "lon": -66.32079,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.97193,
-      "lon": -58.8265,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -23.67911,
+      "lon": -59.26488,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.64331,
-      "lon": -58.74466,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -22.49269,
+      "lon": -58.47743,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.1305,
-      "lon": -66.68761,
-      "horaArchivo": "2026-11-25T09:08:20+00:00",
+      "lat": -22.87667,
+      "lon": -57.91157,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.12112,
-      "lon": -57.31416,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.05066,
+      "lon": -56.83161,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.82594,
-      "lon": -58.90533,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -24.17403,
+      "lon": -59.79491,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.84531,
-      "lon": -59.26965,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.24474,
+      "lon": -66.49112,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.80812,
-      "lon": -58.51784,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.02693,
+      "lon": -56.88051,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.04583,
-      "lon": -58.85309,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.0927,
+      "lon": -66.69553,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.44699,
-      "lon": -62.32281,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -24.28959,
+      "lon": -59.71217,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.20738,
-      "lon": -66.54278,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.97761,
+      "lon": -57.04749,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.33416,
-      "lon": -59.27254,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.14324,
+      "lon": -59.19624,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.31664,
-      "lon": -57.84148,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.08981,
+      "lon": -57.00423,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.08967,
-      "lon": -58.9965,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.17109,
+      "lon": -66.70914,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.62408,
-      "lon": -60.45936,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.24367,
+      "lon": -66.49249,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.15942,
-      "lon": -58.43579,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.98684,
+      "lon": -58.11082,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.69872,
-      "lon": -58.54691,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.5182,
+      "lon": -58.40976,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.26531,
-      "lon": -57.10972,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.30222,
+      "lon": -53.28675,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.7593,
-      "lon": -60.33496,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.15254,
+      "lon": -66.67788,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.03841,
-      "lon": -59.20773,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.62187,
+      "lon": -58.86122,
+      "horaArchivo": "2026-11-25T10:17:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.13169,
-      "lon": -60.06293,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.51507,
+      "lon": -59.42109,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.89108,
-      "lon": -58.41037,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.59887,
+      "lon": -59.2434,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.86413,
-      "lon": -60.30908,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.99764,
+      "lon": -57.93111,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.756,
-      "lon": -58.58835,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.15691,
+      "lon": -60.24614,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.0308,
-      "lon": -59.00606,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -24.21007,
+      "lon": -59.77463,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.73877,
-      "lon": -58.75016,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.1867,
+      "lon": -66.66911,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.27193,
-      "lon": -57.07623,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.32338,
+      "lon": -66.41287,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.77984,
-      "lon": -59.51484,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.67895,
+      "lon": -56.84136,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.17801,
-      "lon": -66.62843,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.24641,
+      "lon": -66.40137,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.94704,
-      "lon": -60.0148,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.81563,
+      "lon": -56.90893,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.11742,
-      "lon": -58.94206,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.4304,
+      "lon": -57.91727,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.42857,
-      "lon": -58.5877,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.34096,
+      "lon": -60.12148,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.6745,
-      "lon": -60.79562,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.11201,
+      "lon": -66.70039,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.13477,
-      "lon": -57.14896,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.55726,
+      "lon": -59.85057,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.24077,
-      "lon": -66.59953,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.24673,
+      "lon": -66.40188,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.78114,
-      "lon": -58.04124,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -24.27422,
+      "lon": -59.56343,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.1529,
-      "lon": -66.60909,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.2509,
+      "lon": -66.58146,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.26946,
-      "lon": -57.11901,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.63286,
+      "lon": -59.16165,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.16516,
-      "lon": -57.7485,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.1783,
+      "lon": -66.58347,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.8381,
-      "lon": -58.20712,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.24791,
+      "lon": -66.36917,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.54141,
-      "lon": -58.37329,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.16069,
+      "lon": -66.72146,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23875,
-      "lon": -66.68056,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.08248,
+      "lon": -57.19948,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.05879,
-      "lon": -58.99593,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.24725,
+      "lon": -66.40331,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.20354,
-      "lon": -59.95246,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.99236,
+      "lon": -61.92051,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.14802,
-      "lon": -57.33365,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.42408,
+      "lon": -57.47012,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.93987,
-      "lon": -58.2081,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.2934,
+      "lon": -57.06787,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.29936,
-      "lon": -59.5261,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.9937,
+      "lon": -59.24112,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.48668,
-      "lon": -66.30167,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.22166,
+      "lon": -66.50871,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.78032,
-      "lon": -58.87967,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.64916,
+      "lon": -59.11334,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.13031,
-      "lon": -58.63347,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.80121,
+      "lon": -57.86568,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.22126,
-      "lon": -66.76169,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.20343,
+      "lon": -66.64646,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.02834,
-      "lon": -59.2066,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.37247,
+      "lon": -57.82475,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.02283,
-      "lon": -58.94672,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.31843,
+      "lon": -58.18412,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.96255,
-      "lon": -59.18145,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.62227,
+      "lon": -57.73086,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.05918,
-      "lon": -56.18225,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.24379,
+      "lon": -66.53352,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.25911,
-      "lon": -57.14821,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.17882,
+      "lon": -58.0232,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.90588,
-      "lon": -58.39137,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.55664,
+      "lon": -59.16105,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.19615,
-      "lon": -59.90517,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.53206,
+      "lon": -58.43749,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.41513,
-      "lon": -56.8636,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.92439,
+      "lon": -57.97104,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.44061,
-      "lon": -58.94236,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -24.12798,
+      "lon": -59.84092,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.27887,
-      "lon": -66.56223,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.65446,
+      "lon": -60.287,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.24512,
-      "lon": -66.40941,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.6814,
+      "lon": -59.38852,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.35046,
-      "lon": -59.04228,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -22.20263,
+      "lon": -56.96732,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.94856,
-      "lon": -60.2125,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.1616,
+      "lon": -66.72601,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.38634,
-      "lon": -58.57566,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.59939,
+      "lon": -59.06386,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.95892,
-      "lon": -58.93438,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -24.27012,
+      "lon": -59.60959,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.27471,
-      "lon": -57.12954,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.16277,
+      "lon": -66.68387,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.48199,
-      "lon": -66.35309,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -23.65793,
+      "lon": -59.21474,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.20863,
-      "lon": -66.59366,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.09751,
+      "lon": -66.69485,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.66839,
-      "lon": -60.37848,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.24572,
+      "lon": -66.45671,
+      "horaArchivo": "2026-11-25T10:17:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.03507,
-      "lon": -58.92698,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -21.94222,
+      "lon": -58.9633,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.36163,
-      "lon": -57.80886,
-      "horaArchivo": "2026-11-25T09:08:00+00:00",
+      "lat": -33.1094,
+      "lon": -66.67525,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.33568,
-      "lon": -56.74886,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.32378,
+      "lon": -66.48318,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.00533,
-      "lon": -59.36804,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.23625,
+      "lon": -66.58315,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23984,
-      "lon": -66.65372,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -22.36601,
+      "lon": -58.98201,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.32378,
-      "lon": -59.15271,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.79177,
+      "lon": -58.92022,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.36598,
-      "lon": -57.83131,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.98585,
+      "lon": -58.09474,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.26506,
-      "lon": -57.0682,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.27257,
+      "lon": -59.56898,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.15558,
-      "lon": -66.73251,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.96378,
+      "lon": -54.73752,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.01938,
-      "lon": -59.11995,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.05377,
+      "lon": -59.94887,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.08969,
-      "lon": -60.16253,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -22.83781,
+      "lon": -58.03008,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.2591,
-      "lon": -66.74915,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.71705,
+      "lon": -60.08079,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.17994,
-      "lon": -57.28134,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.04914,
+      "lon": -60.1197,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.2785,
-      "lon": -66.48787,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.0539,
+      "lon": -59.94833,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.23935,
-      "lon": -57.13529,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.5152,
+      "lon": -58.38523,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.15319,
-      "lon": -66.6535,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.17738,
+      "lon": -66.71429,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.48113,
-      "lon": -66.27879,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.38985,
+      "lon": -57.81885,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.94894,
-      "lon": -58.46512,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.03839,
+      "lon": -56.24599,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.73853,
-      "lon": -60.85999,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.28327,
+      "lon": -59.74916,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.17452,
-      "lon": -59.95923,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.26555,
+      "lon": -58.04573,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.88148,
-      "lon": -60.39219,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.71378,
+      "lon": -56.69228,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.97802,
-      "lon": -60.63186,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.19974,
+      "lon": -58.78253,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -43.58645,
-      "lon": -66.53859,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.16783,
+      "lon": -59.81085,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.63382,
-      "lon": -59.42567,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.60538,
+      "lon": -59.06052,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.39761,
-      "lon": -56.82953,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.97275,
+      "lon": -59.22754,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.69939,
-      "lon": -57.2767,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.25811,
+      "lon": -66.49143,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.1423,
-      "lon": -59.37352,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.24514,
+      "lon": -66.49296,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.7723,
-      "lon": -58.61811,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.94731,
+      "lon": -58.89526,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.11356,
-      "lon": -59.00246,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.66581,
+      "lon": -59.21034,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.28649,
-      "lon": -57.08733,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.20104,
+      "lon": -66.63894,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.16003,
-      "lon": -66.76809,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.44764,
+      "lon": -59.54461,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.95436,
-      "lon": -58.95151,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -22.83886,
+      "lon": -57.81774,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.43464,
-      "lon": -58.67651,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.75667,
+      "lon": -59.61967,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.27877,
-      "lon": -57.35174,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.8487,
+      "lon": -59.14259,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.04065,
-      "lon": -57.12504,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.56484,
+      "lon": -60.001,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.95975,
-      "lon": -60.26599,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.12583,
+      "lon": -66.70416,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.28518,
-      "lon": -57.14397,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -22.12033,
+      "lon": -57.31293,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.83836,
-      "lon": -58.9735,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.32203,
+      "lon": -66.48176,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.86847,
-      "lon": -58.13084,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.55116,
+      "lon": -59.11376,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.01662,
-      "lon": -58.95029,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.20562,
+      "lon": -58.06056,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.15468,
-      "lon": -57.84463,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -22.15366,
+      "lon": -59.17685,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.04198,
-      "lon": -56.74706,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -22.15384,
+      "lon": -59.17934,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.07365,
-      "lon": -58.79794,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.57024,
+      "lon": -58.43146,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.21668,
-      "lon": -57.29838,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.37314,
+      "lon": -59.73259,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.37865,
-      "lon": -60.25996,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.31757,
+      "lon": -58.18381,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.0788,
-      "lon": -56.33619,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.2815,
+      "lon": -59.59805,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.16058,
-      "lon": -66.61428,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.18744,
+      "lon": -66.75768,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.21037,
-      "lon": -66.70565,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.29681,
+      "lon": -66.39646,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.27097,
-      "lon": -57.12908,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.23845,
+      "lon": -58.18723,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.79495,
-      "lon": -60.19047,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.6462,
+      "lon": -58.99488,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.47991,
-      "lon": -66.36786,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -22.15757,
+      "lon": -59.44872,
+      "horaArchivo": "2026-11-25T10:16:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.18093,
-      "lon": -66.76534,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.8,
+      "lon": -61.94035,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.90997,
-      "lon": -59.32869,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.2428,
+      "lon": -66.58379,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.749,
-      "lon": -60.16067,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.64073,
+      "lon": -59.32853,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.07316,
-      "lon": -58.93955,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.70907,
+      "lon": -62.15009,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23433,
-      "lon": -66.59637,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.13251,
+      "lon": -59.8881,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.98483,
-      "lon": -60.19599,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.27431,
+      "lon": -58.0876,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.01835,
-      "lon": -59.21755,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.2451,
+      "lon": -66.49348,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.04255,
-      "lon": -60.64654,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.29995,
+      "lon": -59.62622,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.20867,
-      "lon": -59.9157,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.64291,
+      "lon": -58.98409,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.95654,
-      "lon": -58.47567,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.62853,
+      "lon": -59.16175,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.06908,
-      "lon": -58.98843,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -24.21548,
+      "lon": -59.75624,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.23818,
-      "lon": -57.15792,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -23.20978,
+      "lon": -57.67958,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.31789,
-      "lon": -66.75258,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -21.53746,
+      "lon": -58.37399,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.2946,
-      "lon": -59.1499,
-      "horaArchivo": "2026-11-25T09:07:40+00:00",
+      "lat": -33.14938,
+      "lon": -66.68385,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.13267,
-      "lon": -60.02516,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.11675,
+      "lon": -57.29631,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.02922,
-      "lon": -58.93823,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.27099,
+      "lon": -66.447,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.78289,
-      "lon": -58.58424,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.75318,
+      "lon": -56.79062,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.15768,
-      "lon": -59.36873,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.22346,
+      "lon": -58.00938,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.12615,
-      "lon": -58.99529,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.18586,
+      "lon": -66.6432,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.91727,
-      "lon": -60.26014,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.58819,
+      "lon": -53.17651,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.25512,
-      "lon": -57.14265,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.11728,
+      "lon": -57.37168,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.01443,
-      "lon": -59.18996,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.26672,
+      "lon": -58.17532,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.0365,
-      "lon": -59.57012,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.30771,
+      "lon": -66.48514,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.23008,
-      "lon": -60.56361,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.55431,
+      "lon": -58.44544,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.69275,
-      "lon": -58.69345,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.65185,
+      "lon": -59.09875,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.99371,
-      "lon": -59.62298,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.13287,
+      "lon": -66.67325,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.16977,
-      "lon": -66.61337,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -24.30358,
+      "lon": -59.49117,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.91469,
-      "lon": -59.31327,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.55586,
+      "lon": -57.54705,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.78554,
-      "lon": -58.03865,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -24.06264,
+      "lon": -59.7588,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.90469,
-      "lon": -58.56427,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.18866,
+      "lon": -66.74758,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.07082,
-      "lon": -59.06943,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.45674,
+      "lon": -58.3401,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.49144,
-      "lon": -66.34582,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.5144,
+      "lon": -58.46881,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.26806,
-      "lon": -57.09384,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.3882,
+      "lon": -57.98629,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.95912,
-      "lon": -58.45163,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.00246,
+      "lon": -57.68701,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.86477,
-      "lon": -59.16031,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.20706,
+      "lon": -66.29488,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.1278,
-      "lon": -57.83376,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.64868,
+      "lon": -58.43158,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.62209,
-      "lon": -58.78428,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.97233,
+      "lon": -59.22607,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.26769,
-      "lon": -66.7504,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.59832,
+      "lon": -58.42595,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.78998,
-      "lon": -59.37471,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.16381,
+      "lon": -66.68085,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.24823,
-      "lon": -57.36349,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -24.33647,
+      "lon": -59.65868,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.78251,
-      "lon": -58.78871,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.31876,
+      "lon": -58.18307,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.76002,
-      "lon": -59.28065,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.68464,
+      "lon": -59.06577,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.16136,
-      "lon": -66.64575,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -24.27705,
+      "lon": -59.57278,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.22933,
-      "lon": -60.70305,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.22704,
+      "lon": -66.50514,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.08494,
-      "lon": -59.00145,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.71656,
+      "lon": -58.26963,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.77977,
-      "lon": -60.22332,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.91184,
+      "lon": -57.98181,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.27995,
-      "lon": -57.14219,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.41498,
+      "lon": -57.2126,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.02797,
-      "lon": -59.14133,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.16976,
+      "lon": -66.74162,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.29873,
-      "lon": -66.58321,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.38626,
+      "lon": -66.5896,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.28205,
-      "lon": -57.70525,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.78395,
+      "lon": -57.83833,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.97327,
-      "lon": -58.95348,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.31903,
+      "lon": -58.18276,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.1414,
-      "lon": -66.70377,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.09162,
+      "lon": -58.33784,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.33414,
-      "lon": -66.52822,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.66481,
+      "lon": -59.20563,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.86481,
-      "lon": -58.42378,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.19163,
+      "lon": -58.05629,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.72854,
-      "lon": -58.15757,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.94889,
+      "lon": -58.11761,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.07891,
-      "lon": -57.26886,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.65193,
+      "lon": -59.23269,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.47029,
-      "lon": -66.35595,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.89014,
+      "lon": -56.57931,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.23437,
-      "lon": -57.57897,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.70904,
+      "lon": -59.01168,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.83344,
-      "lon": -59.1895,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.53932,
+      "lon": -59.08861,
+      "horaArchivo": "2026-11-25T10:16:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.05964,
-      "lon": -58.69495,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.22884,
+      "lon": -59.07481,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.05243,
-      "lon": -58.94687,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.18144,
+      "lon": -66.76738,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.06958,
-      "lon": -57.77274,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.23652,
+      "lon": -57.60843,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.15629,
-      "lon": -57.14923,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.33969,
+      "lon": -57.16436,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.8369,
-      "lon": -59.19583,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.24669,
+      "lon": -66.69332,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.86104,
-      "lon": -57.77434,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.24764,
+      "lon": -66.3757,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.27047,
-      "lon": -57.10228,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -24.29363,
+      "lon": -59.57737,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.96795,
-      "lon": -60.06527,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.53336,
+      "lon": -58.43607,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.75448,
-      "lon": -58.57426,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.16039,
+      "lon": -56.49414,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.06231,
-      "lon": -58.53344,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.08322,
+      "lon": -66.7075,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.14212,
-      "lon": -57.34475,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.12223,
+      "lon": -58.10911,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.94084,
-      "lon": -58.22108,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.50339,
+      "lon": -58.36753,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.07478,
-      "lon": -58.8554,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.24585,
+      "lon": -66.49118,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.88818,
-      "lon": -58.40123,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.77709,
+      "lon": -56.88741,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.6967,
-      "lon": -58.9225,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.70233,
+      "lon": -60.01361,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.31456,
-      "lon": -66.74036,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.80215,
+      "lon": -60.00048,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.25325,
-      "lon": -57.12976,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.31752,
+      "lon": -66.39217,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.06784,
-      "lon": -59.03801,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.17154,
+      "lon": -66.67747,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.44379,
-      "lon": -60.84388,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.31933,
+      "lon": -58.1841,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.7002,
-      "lon": -59.57311,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.88759,
+      "lon": -57.98716,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.41109,
-      "lon": -60.63988,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.66656,
+      "lon": -59.08868,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.96142,
-      "lon": -60.17113,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.08731,
+      "lon": -66.69023,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.70787,
-      "lon": -57.7281,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.24596,
+      "lon": -66.49245,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.67338,
-      "lon": -60.38943,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.97262,
+      "lon": -59.24171,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -40.5788,
-      "lon": -59.69397,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -24.18374,
+      "lon": -59.77731,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.15347,
-      "lon": -66.62655,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.16821,
+      "lon": -57.97161,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.07698,
-      "lon": -57.65581,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -33.22219,
+      "lon": -66.61774,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.44838,
-      "lon": -58.58369,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -21.58415,
+      "lon": -58.97368,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.27278,
-      "lon": -57.13414,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.20868,
+      "lon": -58.25707,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.66508,
-      "lon": -60.37594,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -22.54412,
+      "lon": -57.46815,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.86539,
-      "lon": -58.83176,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.16859,
+      "lon": -56.75514,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.29263,
-      "lon": -56.57703,
-      "horaArchivo": "2026-11-25T09:07:20+00:00",
+      "lat": -23.66184,
+      "lon": -59.88164,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.95988,
-      "lon": -58.47179,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -24.25987,
+      "lon": -59.56728,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.73956,
-      "lon": -58.90489,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.49816,
+      "lon": -59.02505,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.74753,
-      "lon": -60.24903,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.13012,
+      "lon": -66.68189,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.19046,
-      "lon": -57.12819,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.29044,
+      "lon": -59.25188,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.13137,
-      "lon": -57.30299,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.51177,
+      "lon": -58.44936,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.64671,
-      "lon": -57.94361,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.0674,
+      "lon": -56.9641,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.71011,
-      "lon": -59.50097,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.91166,
+      "lon": -59.96266,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23655,
-      "lon": -66.66476,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.2074,
+      "lon": -66.51488,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.1042,
-      "lon": -57.75719,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.98949,
+      "lon": -58.11578,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.02811,
-      "lon": -57.15914,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.42127,
+      "lon": -57.91092,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.37601,
-      "lon": -57.29799,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.3693,
+      "lon": -53.4201,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.11283,
-      "lon": -58.97166,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.30101,
+      "lon": -66.76955,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.44062,
-      "lon": -58.59897,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.12562,
+      "lon": -66.69539,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.88423,
-      "lon": -58.3673,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.78384,
+      "lon": -59.66561,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.94834,
-      "lon": -60.12657,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.38621,
+      "lon": -57.27926,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.00984,
-      "lon": -59.15076,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.92713,
+      "lon": -58.00301,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.0379,
-      "lon": -58.86417,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.62996,
+      "lon": -57.77823,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.89897,
-      "lon": -58.13403,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.67954,
+      "lon": -59.23914,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.28203,
-      "lon": -57.14595,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.1763,
+      "lon": -66.75449,
+      "horaArchivo": "2026-11-25T10:16:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.99394,
-      "lon": -58.87202,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.36642,
+      "lon": -57.79479,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.17927,
-      "lon": -66.58915,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.30855,
+      "lon": -58.10048,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.27602,
-      "lon": -59.10712,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.52291,
+      "lon": -59.07194,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.77455,
-      "lon": -58.60642,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.68284,
+      "lon": -56.86047,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.2586,
-      "lon": -57.07665,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.15916,
+      "lon": -58.60683,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.24845,
-      "lon": -66.66711,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.77138,
+      "lon": -57.25288,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.89577,
-      "lon": -59.28216,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.2923,
+      "lon": -58.1803,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.35211,
-      "lon": -58.60292,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.29317,
+      "lon": -59.23603,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.47696,
-      "lon": -66.36051,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.52765,
+      "lon": -58.45744,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.20863,
-      "lon": -57.29023,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.26569,
+      "lon": -56.98112,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.07172,
-      "lon": -58.80029,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.73057,
+      "lon": -59.71842,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.50589,
-      "lon": -60.42912,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.09794,
+      "lon": -66.70596,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.22421,
-      "lon": -59.90356,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.91977,
+      "lon": -57.98746,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.15076,
-      "lon": -66.64615,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.2326,
+      "lon": -66.55627,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.10046,
-      "lon": -57.62558,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.65082,
+      "lon": -58.43137,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.24732,
-      "lon": -57.13474,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.08522,
+      "lon": -57.22492,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.13452,
-      "lon": -66.67546,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -24.0885,
+      "lon": -59.6982,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.87722,
-      "lon": -58.7693,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.30054,
+      "lon": -66.55228,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.5319,
-      "lon": -60.91414,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.59663,
+      "lon": -53.15704,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.87511,
-      "lon": -58.44108,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.27819,
+      "lon": -58.19908,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.97778,
-      "lon": -60.12017,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.2459,
+      "lon": -66.42754,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.11638,
-      "lon": -58.98261,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.08613,
+      "lon": -66.72066,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.75306,
-      "lon": -58.74907,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.56534,
+      "lon": -57.57183,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23975,
-      "lon": -66.56439,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.64972,
+      "lon": -58.97701,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.48603,
-      "lon": -66.3741,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.99675,
+      "lon": -58.11756,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.75201,
-      "lon": -58.83516,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.20927,
+      "lon": -58.08134,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.34086,
-      "lon": -59.0304,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.64674,
+      "lon": -59.16623,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.6567,
-      "lon": -60.29621,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.94076,
+      "lon": -58.85777,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23961,
-      "lon": -66.50628,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.24452,
+      "lon": -58.02486,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.08369,
-      "lon": -53.02822,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.25517,
+      "lon": -66.48995,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.2687,
-      "lon": -57.1179,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.76483,
+      "lon": -58.9625,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.01497,
-      "lon": -56.74364,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -24.22738,
+      "lon": -59.58398,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.30054,
-      "lon": -58.86541,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.58309,
+      "lon": -58.43901,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.0441,
-      "lon": -59.13853,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.68325,
+      "lon": -59.06865,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.78516,
-      "lon": -58.30911,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.24436,
+      "lon": -66.69762,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.04366,
-      "lon": -59.01221,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.57513,
+      "lon": -58.99938,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23999,
-      "lon": -66.66847,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -24.18234,
+      "lon": -59.8007,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.88593,
-      "lon": -59.48096,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -23.67513,
+      "lon": -59.23523,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.34953,
-      "lon": -57.86029,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.19508,
+      "lon": -58.77907,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.34806,
-      "lon": -59.24721,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.38433,
+      "lon": -66.69408,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.81298,
-      "lon": -57.97382,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.47559,
+      "lon": -57.04689,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.45349,
-      "lon": -58.60713,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -24.29122,
+      "lon": -59.51295,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.44096,
-      "lon": -60.48335,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.89229,
+      "lon": -56.96543,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.26746,
-      "lon": -66.70915,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -24.29534,
+      "lon": -59.66296,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.15121,
-      "lon": -57.29639,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.1623,
+      "lon": -66.72455,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.62086,
-      "lon": -59.56588,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -22.9073,
+      "lon": -57.9889,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.42381,
-      "lon": -57.9171,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -33.13346,
+      "lon": -66.69566,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.88578,
-      "lon": -58.8522,
-      "horaArchivo": "2026-11-25T09:07:00+00:00",
+      "lat": -21.62272,
+      "lon": -59.05344,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.46603,
-      "lon": -58.60566,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.31643,
+      "lon": -66.4837,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.20446,
-      "lon": -66.61582,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.30196,
+      "lon": -53.34873,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.31269,
-      "lon": -60.55247,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.52938,
+      "lon": -56.50055,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.70268,
-      "lon": -58.21735,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.79185,
+      "lon": -58.24273,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.68174,
-      "lon": -60.37233,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.47583,
+      "lon": -56.95062,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.33622,
-      "lon": -56.66396,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -22.69526,
+      "lon": -58.26355,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.2658,
-      "lon": -57.13582,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -24.28107,
+      "lon": -59.81539,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.27022,
-      "lon": -66.7562,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.24508,
+      "lon": -66.49187,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.11585,
-      "lon": -58.98609,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.09938,
+      "lon": -66.68209,
+      "horaArchivo": "2026-11-25T10:15:40+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.85471,
-      "lon": -58.969,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.31834,
+      "lon": -58.18518,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.24212,
-      "lon": -66.62995,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.73836,
+      "lon": -56.7264,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.76131,
-      "lon": -58.58427,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -22.04521,
+      "lon": -58.24665,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.10366,
-      "lon": -57.70986,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.54117,
+      "lon": -58.90358,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.05024,
-      "lon": -59.68665,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.95415,
+      "lon": -54.80744,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.10272,
-      "lon": -59.01371,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -22.13997,
+      "lon": -59.20512,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.09648,
-      "lon": -60.07041,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.66391,
+      "lon": -59.27007,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.06596,
-      "lon": -57.78475,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -24.28908,
+      "lon": -59.57152,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.43869,
-      "lon": -58.62403,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -22.92753,
+      "lon": -57.99012,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.21029,
-      "lon": -57.13559,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.67131,
+      "lon": -59.23606,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.29292,
-      "lon": -59.5289,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.57286,
+      "lon": -59.83125,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.15074,
-      "lon": -59.3755,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.20035,
+      "lon": -58.35807,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.31419,
-      "lon": -66.75083,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.39176,
+      "lon": -58.07518,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.85835,
-      "lon": -57.77571,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.60776,
+      "lon": -58.9937,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.22494,
-      "lon": -66.64539,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.20985,
+      "lon": -66.56343,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.40388,
-      "lon": -60.68232,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.57556,
+      "lon": -59.16492,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.25697,
-      "lon": -57.71524,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.51805,
+      "lon": -58.45377,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.51727,
-      "lon": -60.60495,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.3024,
+      "lon": -66.50542,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.26871,
-      "lon": -57.11119,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.16649,
+      "lon": -66.53184,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.36745,
-      "lon": -57.81267,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -24.30301,
+      "lon": -59.65998,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.33519,
-      "lon": -59.00665,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -22.18416,
+      "lon": -59.36445,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.7272,
-      "lon": -58.14848,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.16474,
+      "lon": -66.75247,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.14758,
-      "lon": -66.74046,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -22.35566,
+      "lon": -57.33724,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.00656,
-      "lon": -59.07349,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.24938,
+      "lon": -66.60548,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.90638,
-      "lon": -60.27781,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.17178,
+      "lon": -59.07457,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.23096,
-      "lon": -57.31572,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -38.70308,
+      "lon": -67.83092,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.08988,
-      "lon": -59.01796,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -22.73595,
+      "lon": -58.2535,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.92306,
-      "lon": -59.3835,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.26749,
+      "lon": -66.48468,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.24832,
-      "lon": -66.58222,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -22.3442,
+      "lon": -57.24239,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.34847,
-      "lon": -59.28405,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.53326,
+      "lon": -58.47683,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.32674,
-      "lon": -57.69136,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.20152,
+      "lon": -66.69138,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.85642,
-      "lon": -57.9949,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.83612,
+      "lon": -56.81329,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.02636,
-      "lon": -58.95096,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -23.6734,
+      "lon": -59.07168,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.21466,
-      "lon": -57.17796,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.072,
+      "lon": -58.68003,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.65535,
-      "lon": -58.71862,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -33.15914,
+      "lon": -66.67791,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.93751,
-      "lon": -58.5754,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
+      "lat": -21.55624,
+      "lon": -58.31617,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.87918,
-      "lon": -59.11565,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27259,
-      "lon": -57.1132,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.61349,
-      "lon": -60.35308,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.34991,
-      "lon": -59.9727,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.08089,
-      "lon": -57.87978,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.27246,
-      "lon": -66.76187,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.69421,
-      "lon": -60.36068,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.17564,
-      "lon": -66.65377,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.16725,
-      "lon": -60.04881,
-      "horaArchivo": "2026-11-25T09:06:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.11979,
-      "lon": -58.97408,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.65812,
-      "lon": -58.55254,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.19666,
-      "lon": -59.94748,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.19751,
-      "lon": -66.65982,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.77731,
-      "lon": -57.85072,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.01595,
-      "lon": -59.29871,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.29507,
-      "lon": -57.14114,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.8525,
-      "lon": -59.31953,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.00659,
-      "lon": -58.45681,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.80136,
-      "lon": -58.00224,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27341,
-      "lon": -59.59234,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.44481,
-      "lon": -57.95646,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.24902,
-      "lon": -57.19056,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.00996,
-      "lon": -59.18676,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.09791,
-      "lon": -57.43723,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.85595,
-      "lon": -58.22036,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.33233,
-      "lon": -58.87733,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.00337,
-      "lon": -60.1406,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.87745,
-      "lon": -59.11568,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.25573,
-      "lon": -57.12249,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.94803,
-      "lon": -60.68213,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.02723,
-      "lon": -59.15239,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.94162,
-      "lon": -59.88321,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.20127,
-      "lon": -66.60423,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.24843,
-      "lon": -57.39497,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.00666,
-      "lon": -60.65517,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.1163,
-      "lon": -57.35783,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.9115,
-      "lon": -57.7631,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.03701,
-      "lon": -58.82809,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.75745,
-      "lon": -58.58019,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.11297,
-      "lon": -59.0225,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.12975,
-      "lon": -60.03658,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.0268,
-      "lon": -58.85708,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.47964,
-      "lon": -66.31913,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27033,
-      "lon": -57.12136,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.78113,
-      "lon": -59.64007,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.31769,
-      "lon": -60.47715,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.02995,
-      "lon": -59.00389,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.63992,
-      "lon": -59.48432,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.4205,
-      "lon": -59.0341,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.76903,
-      "lon": -59.24557,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.0902,
-      "lon": -58.75661,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.84966,
-      "lon": -58.7865,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.14641,
-      "lon": -59.30574,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.19249,
-      "lon": -59.96841,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.94436,
-      "lon": -60.25431,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.97589,
-      "lon": -56.20455,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.28947,
-      "lon": -66.74199,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.26219,
-      "lon": -60.77905,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.47881,
-      "lon": -66.36964,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.32302,
-      "lon": -61.24924,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.11646,
-      "lon": -58.98544,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.97608,
-      "lon": -60.05901,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.4816,
-      "lon": -66.27896,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.19695,
-      "lon": -66.60826,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.79615,
-      "lon": -60.1452,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.0392,
-      "lon": -56.75742,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.8278,
-      "lon": -57.98987,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.03666,
-      "lon": -59.25119,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27267,
-      "lon": -57.08575,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.2407,
-      "lon": -66.67047,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.04522,
-      "lon": -58.94338,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.74454,
-      "lon": -58.83158,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.22716,
-      "lon": -57.15542,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.75603,
-      "lon": -58.68208,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.14018,
-      "lon": -57.85799,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.97251,
-      "lon": -59.19794,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.37584,
-      "lon": -66.55206,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.0499,
-      "lon": -58.85091,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.58393,
-      "lon": -60.5495,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.93821,
-      "lon": -58.45269,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.12478,
-      "lon": -57.33812,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.27876,
-      "lon": -57.83792,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.89427,
-      "lon": -59.5103,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27655,
-      "lon": -57.11903,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.48001,
-      "lon": -66.3299,
-      "horaArchivo": "2026-11-25T09:06:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.10159,
-      "lon": -58.87557,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.57332,
-      "lon": -59.57802,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.7464,
-      "lon": -58.07901,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.45939,
-      "lon": -58.60142,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.22608,
-      "lon": -57.06501,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.4051,
-      "lon": -60.62615,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.90369,
-      "lon": -59.45469,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.02766,
-      "lon": -59.15397,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.28302,
-      "lon": -66.76316,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.7423,
-      "lon": -58.92162,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.23914,
-      "lon": -66.66035,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.21072,
-      "lon": -66.76951,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.07875,
-      "lon": -58.91396,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.98301,
-      "lon": -60.07999,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.26516,
-      "lon": -57.13352,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.80569,
-      "lon": -59.2037,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.03368,
-      "lon": -58.99823,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.24256,
-      "lon": -57.27151,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.95535,
-      "lon": -60.26617,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.70477,
-      "lon": -58.22459,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.19203,
-      "lon": -57.32515,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.10886,
-      "lon": -59.02026,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.17485,
-      "lon": -66.61924,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.41862,
-      "lon": -58.62729,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.44675,
-      "lon": -58.66911,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.08529,
-      "lon": -57.82674,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.89162,
-      "lon": -58.56523,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.25412,
-      "lon": -57.10318,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.23199,
-      "lon": -57.46758,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.12369,
-      "lon": -60.04224,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.75717,
-      "lon": -59.23621,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.20446,
-      "lon": -59.19595,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.76066,
-      "lon": -60.23984,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.81761,
-      "lon": -58.55533,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.25312,
-      "lon": -66.7393,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.08536,
-      "lon": -57.69564,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.34008,
-      "lon": -59.17486,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.13814,
-      "lon": -58.65506,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.68944,
-      "lon": -57.31332,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.23808,
-      "lon": -57.15302,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.31833,
-      "lon": -66.75126,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.15503,
-      "lon": -59.83063,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.05473,
-      "lon": -59.99679,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.01549,
-      "lon": -59.13823,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27923,
-      "lon": -57.08832,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.15268,
-      "lon": -66.61652,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.07384,
-      "lon": -59.07622,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.98913,
-      "lon": -59.42428,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.28226,
-      "lon": -57.8259,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.01631,
-      "lon": -59.49028,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.43402,
-      "lon": -66.34796,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.98068,
-      "lon": -58.95063,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.5958,
-      "lon": -60.46896,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.13238,
-      "lon": -57.35787,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.05484,
-      "lon": -58.9414,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.82797,
-      "lon": -58.73195,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.88799,
-      "lon": -58.56095,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.21783,
-      "lon": -66.60781,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.66793,
-      "lon": -60.36971,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27334,
-      "lon": -57.0944,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.60299,
-      "lon": -58.74802,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.71617,
-      "lon": -59.02384,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.23748,
-      "lon": -57.12708,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.12486,
-      "lon": -60.16793,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.64574,
-      "lon": -59.06693,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.06762,
-      "lon": -59.05312,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.41564,
-      "lon": -59.27897,
-      "horaArchivo": "2026-11-25T09:06:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.0272,
-      "lon": -58.98544,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.22647,
-      "lon": -66.62484,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.28086,
-      "lon": -57.84801,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.58742,
-      "lon": -58.62523,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.25541,
-      "lon": -57.10754,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.41216,
-      "lon": -57.29545,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.48093,
-      "lon": -66.36974,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.74405,
-      "lon": -58.78348,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.12121,
-      "lon": -57.70473,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.01939,
-      "lon": -57.18684,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.79847,
-      "lon": -60.23122,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.40511,
-      "lon": -56.87545,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.89289,
-      "lon": -59.51487,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.12553,
-      "lon": -57.36161,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.03572,
-      "lon": -59.15676,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.68241,
-      "lon": -57.97297,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.12991,
-      "lon": -60.19806,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.35115,
-      "lon": -60.46553,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.17302,
-      "lon": -57.43568,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.70842,
-      "lon": -57.75671,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.72108,
-      "lon": -58.15655,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.9889,
-      "lon": -58.49069,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.29768,
-      "lon": -58.90509,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27956,
-      "lon": -57.08558,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.60095,
-      "lon": -60.29206,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.84509,
-      "lon": -59.07786,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.26838,
-      "lon": -66.7547,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.0417,
-      "lon": -59.18316,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.96773,
-      "lon": -58.93235,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.73127,
-      "lon": -60.85295,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.23926,
-      "lon": -66.66829,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.80932,
-      "lon": -60.14794,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.11493,
-      "lon": -58.96534,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.15095,
-      "lon": -66.66605,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.11555,
-      "lon": -59.00213,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.09633,
-      "lon": -57.66374,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.88068,
-      "lon": -58.0706,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.21094,
-      "lon": -57.16393,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.47827,
-      "lon": -66.36867,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.87396,
-      "lon": -58.4659,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.04697,
-      "lon": -58.95582,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.35492,
-      "lon": -59.27389,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.19363,
-      "lon": -66.63354,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.08162,
-      "lon": -57.31828,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.14228,
-      "lon": -57.84778,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.67038,
-      "lon": -60.4227,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.31683,
-      "lon": -57.65602,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.39347,
-      "lon": -58.58292,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.24979,
-      "lon": -57.10985,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -33.3233,
-      "lon": -66.58891,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.26745,
-      "lon": -57.64325,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.74996,
-      "lon": -58.60083,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.9055,
-      "lon": -60.2326,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.29804,
-      "lon": -57.14934,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.02333,
-      "lon": -56.72159,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.32534,
-      "lon": -57.71942,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.11624,
-      "lon": -58.97962,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.49481,
-      "lon": -60.59334,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.02419,
-      "lon": -59.20322,
-      "horaArchivo": "2026-11-25T09:05:40+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.71559,
-      "lon": -62.12356,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.27286,
-      "lon": -57.07069,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.10779,
-      "lon": -60.07269,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.0766,
-      "lon": -56.35185,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.81144,
-      "lon": -58.94572,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.60819,
-      "lon": -60.49178,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.00443,
-      "lon": -60.19273,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.09754,
-      "lon": -58.95636,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.28442,
-      "lon": -57.11451,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.79726,
-      "lon": -60.37933,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.11304,
-      "lon": -57.80973,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.20586,
-      "lon": -57.30308,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -24.12797,
-      "lon": -60.02733,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.99045,
-      "lon": -59.4829,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.49547,
-      "lon": -57.91047,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.16674,
-      "lon": -57.54292,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.06206,
-      "lon": -58.86552,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.63022,
-      "lon": -58.37997,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.21087,
-      "lon": -57.17798,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.32397,
-      "lon": -57.56294,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.37409,
-      "lon": -56.89528,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.6926,
-      "lon": -59.55922,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -22.12427,
-      "lon": -59.4006,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.93113,
-      "lon": -58.48627,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.78404,
-      "lon": -59.63493,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -23.30132,
-      "lon": -57.06511,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -21.02004,
-      "lon": -59.17571,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.20545,
+      "lon": -58.1002,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
       "lat": -33.29732,
-      "lon": -66.55814,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lon": -66.55379,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.07252,
-      "lon": -57.72611,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -22.37696,
+      "lon": -58.53395,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.87276,
-      "lon": -58.07736,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -22.12857,
+      "lon": -59.17585,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.33253,
-      "lon": -57.73323,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -21.96557,
+      "lon": -59.22766,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.12742,
-      "lon": -57.3146,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -21.45982,
+      "lon": -59.0399,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.2391,
-      "lon": -66.63373,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -24.307,
+      "lon": -59.57178,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.36729,
-      "lon": -56.67704,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -21.44613,
+      "lon": -58.33127,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.75417,
-      "lon": -58.62364,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.24725,
+      "lon": -66.69135,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.45131,
-      "lon": -60.87274,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.24824,
+      "lon": -66.39462,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.277,
-      "lon": -57.15974,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.76692,
+      "lon": -59.61074,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.67309,
-      "lon": -60.29738,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.62895,
+      "lon": -59.18625,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.89729,
-      "lon": -59.41285,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.31534,
+      "lon": -66.44617,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.03013,
-      "lon": -59.0172,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -24.14252,
+      "lon": -59.81757,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.06413,
-      "lon": -56.77127,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.09662,
+      "lon": -66.66553,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.11519,
-      "lon": -58.9815,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.19916,
+      "lon": -66.75715,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23726,
-      "lon": -66.75828,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.39383,
+      "lon": -57.92757,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.12726,
-      "lon": -56.59817,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.70215,
+      "lon": -59.29688,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.08315,
-      "lon": -59.08488,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.24514,
+      "lon": -66.49206,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.42555,
-      "lon": -59.03606,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -22.63875,
+      "lon": -57.8041,
+      "horaArchivo": "2026-11-25T10:15:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.74608,
-      "lon": -58.78901,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -22.33861,
+      "lon": -58.97367,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.66449,
-      "lon": -60.39497,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.80178,
+      "lon": -56.84606,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.03284,
-      "lon": -58.97462,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -24.27419,
+      "lon": -59.57587,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.4673,
-      "lon": -66.33762,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.52779,
+      "lon": -59.06799,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.24572,
-      "lon": -57.12219,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -22.91036,
+      "lon": -57.96547,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.22775,
-      "lon": -66.65153,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -21.63799,
+      "lon": -59.22356,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.4441,
-      "lon": -58.60987,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -22.09697,
+      "lon": -59.29358,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.26294,
-      "lon": -57.20772,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.25606,
+      "lon": -58.17391,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.99773,
-      "lon": -60.0801,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -24.18015,
+      "lon": -59.63297,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.47941,
-      "lon": -66.31001,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.17283,
+      "lon": -66.76619,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.98664,
-      "lon": -60.21531,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.67582,
+      "lon": -59.3231,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.27338,
-      "lon": -59.59216,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.24081,
+      "lon": -66.62953,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.54496,
-      "lon": -60.86288,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.04271,
+      "lon": -57.77177,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.78693,
-      "lon": -55.68908,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.5149,
+      "lon": -59.44236,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -24.14314,
-      "lon": -60.01799,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -22.34311,
+      "lon": -57.15386,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.69407,
-      "lon": -58.21515,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -21.64705,
+      "lon": -58.43034,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.20554,
-      "lon": -57.3124,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.16299,
+      "lon": -66.69083,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.20798,
-      "lon": -57.20021,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -24.35598,
+      "lon": -59.70352,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.30199,
-      "lon": -59.3027,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.01877,
+      "lon": -60.19276,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.07183,
-      "lon": -58.92405,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -21.9718,
+      "lon": -59.25203,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.96542,
-      "lon": -60.21097,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -21.97725,
+      "lon": -58.08996,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -33.23251,
-      "lon": -66.6826,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -24.29291,
+      "lon": -59.55196,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.86288,
-      "lon": -58.57413,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -33.14956,
+      "lon": -66.66398,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -23.90059,
-      "lon": -60.37801,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -23.11545,
+      "lon": -57.61523,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -22.23597,
-      "lon": -57.40031,
-      "horaArchivo": "2026-11-25T09:05:20+00:00",
+      "lat": -22.88996,
+      "lon": -57.97187,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.23201,
+      "lon": -58.02571,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.248,
+      "lon": -66.39988,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -22.28206,
+      "lon": -59.18477,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.15458,
+      "lon": -58.78653,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.67494,
+      "lon": -59.05888,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.24988,
+      "lon": -66.64474,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.26051,
+      "lon": -58.18811,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -22.15168,
+      "lon": -57.46427,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -24.21123,
+      "lon": -59.79783,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.38371,
+      "lon": -66.68977,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.44774,
+      "lon": -58.33691,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.85174,
+      "lon": -56.95298,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.18237,
+      "lon": -58.07018,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.58985,
+      "lon": -58.43762,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.17178,
+      "lon": -66.72274,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.24334,
+      "lon": -66.583,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -24.29319,
+      "lon": -59.46991,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.27219,
+      "lon": -66.51476,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.69553,
+      "lon": -59.01414,
+      "horaArchivo": "2026-11-25T10:15:00+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.1981,
+      "lon": -66.5668,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.13413,
+      "lon": -58.30409,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -22.11431,
+      "lon": -57.32077,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.16607,
+      "lon": -66.75566,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.15854,
+      "lon": -66.69415,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.59859,
+      "lon": -59.27584,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -22.63249,
+      "lon": -57.8218,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.27733,
+      "lon": -66.49191,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.96045,
+      "lon": -58.11955,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.31187,
+      "lon": -58.1851,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -22.16411,
+      "lon": -56.99651,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.24593,
+      "lon": -66.40112,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.51365,
+      "lon": -58.44162,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.18832,
+      "lon": -58.21214,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.19119,
+      "lon": -66.60152,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.10256,
+      "lon": -58.07053,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -22.62568,
+      "lon": -57.67046,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.26521,
+      "lon": -66.56564,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -39.62538,
+      "lon": -69.59689,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.31841,
+      "lon": -58.18394,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.97155,
+      "lon": -59.25201,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -24.05414,
+      "lon": -59.78972,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.2443,
+      "lon": -66.51829,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.84781,
+      "lon": -58.14964,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -24.29117,
+      "lon": -59.56005,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.25776,
+      "lon": -66.40054,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.60858,
+      "lon": -59.96539,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.1322,
+      "lon": -66.68723,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.68667,
+      "lon": -59.22089,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.18844,
+      "lon": -57.98021,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -22.15465,
+      "lon": -58.72956,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.22667,
+      "lon": -66.40891,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.19043,
+      "lon": -66.5891,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.43493,
+      "lon": -58.32416,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.30767,
+      "lon": -66.4338,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -24.22328,
+      "lon": -59.70214,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.39355,
+      "lon": -66.72565,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -22.48249,
+      "lon": -57.49863,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.07761,
+      "lon": -66.70383,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.87919,
+      "lon": -55.07681,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.25417,
+      "lon": -58.09621,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -21.45821,
+      "lon": -53.3452,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.74597,
+      "lon": -59.70048,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.17898,
+      "lon": -66.7702,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -23.41736,
+      "lon": -57.92107,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.22544,
+      "lon": -66.51109,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
+      "tipo": "deteccion_satelital"
+    },
+    {
+      "lat": -33.15469,
+      "lon": -66.69527,
+      "horaArchivo": "2026-11-25T10:14:40+00:00",
       "tipo": "deteccion_satelital"
     }
   ]
