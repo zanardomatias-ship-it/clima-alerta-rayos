@@ -1,44 +1,38 @@
 {
   "fuente": "NOAA GOES-19 GLM",
-  "actualizadoEn": "2026-11-26T06:36:51.843049+00:00",
+  "actualizadoEn": "2026-11-26T08:02:18.712365+00:00",
   "region": "Argentina",
   "tipo": "actividad_electrica_satelital",
-  "cantidad": 6,
+  "cantidad": 5,
   "rayos": [
     {
-      "lat": -21.45702,
-      "lon": -65.42798,
-      "horaArchivo": "2026-11-26T06:36:00+00:00",
+      "lat": -23.3457,
+      "lon": -61.86053,
+      "horaArchivo": "2026-11-26T08:01:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.46276,
-      "lon": -65.42573,
-      "horaArchivo": "2026-11-26T06:34:40+00:00",
+      "lat": -23.24267,
+      "lon": -61.7831,
+      "horaArchivo": "2026-11-26T08:00:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -32.02256,
-      "lon": -69.31029,
-      "horaArchivo": "2026-11-26T06:34:40+00:00",
+      "lat": -23.29535,
+      "lon": -61.78076,
+      "horaArchivo": "2026-11-26T08:00:20+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -21.19177,
-      "lon": -65.51165,
-      "horaArchivo": "2026-11-26T06:34:40+00:00",
+      "lat": -23.36025,
+      "lon": -61.82932,
+      "horaArchivo": "2026-11-26T07:59:00+00:00",
       "tipo": "deteccion_satelital"
     },
     {
-      "lat": -32.02534,
-      "lon": -69.32359,
-      "horaArchivo": "2026-11-26T06:34:00+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -32.019,
-      "lon": -69.32625,
-      "horaArchivo": "2026-11-26T06:33:40+00:00",
+      "lat": -23.28632,
+      "lon": -61.73803,
+      "horaArchivo": "2026-11-26T07:58:40+00:00",
       "tipo": "deteccion_satelital"
     }
   ]
