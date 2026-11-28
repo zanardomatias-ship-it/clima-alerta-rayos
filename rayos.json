@@ -1,20 +1,14 @@
 {
   "fuente": "NOAA GOES-19 GLM",
-  "actualizadoEn": "2026-11-28T08:38:51.667325+00:00",
+  "actualizadoEn": "2026-11-28T09:32:30.294299+00:00",
   "region": "Argentina",
   "tipo": "actividad_electrica_satelital",
-  "cantidad": 2,
+  "cantidad": 1,
   "rayos": [
     {
-      "lat": -45.15234,
-      "lon": -58.51195,
-      "horaArchivo": "2026-11-28T08:37:20+00:00",
-      "tipo": "deteccion_satelital"
-    },
-    {
-      "lat": -35.5674,
-      "lon": -68.23096,
-      "horaArchivo": "2026-11-28T08:35:00+00:00",
+      "lat": -24.17267,
+      "lon": -67.09909,
+      "horaArchivo": "2026-11-28T09:30:40+00:00",
       "tipo": "deteccion_satelital"
     }
   ]
